@@ -118,7 +118,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1920&h=1080&fit=crop') center/cover;
+    background: url('https://s2-g1.glbimg.com/HKwVU78OXX66yBySwESkvTukad4=/0x0:1758x1172/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/h/s/YKzKAoQPChLPbNKlsP8g/4-cachoeira-silva-jardim-ogura.jpg') center/cover;
     opacity: 0.3;
     animation: zoomBackground 20s ease-in-out infinite;
 }
